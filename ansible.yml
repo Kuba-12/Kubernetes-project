@@ -1,4 +1,5 @@
 ! ansible.yml
+---
 - hosts: all
   become: true
   tasks: 
